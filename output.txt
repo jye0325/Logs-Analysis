@@ -1,0 +1,21 @@
+POPULAR ARTICLES OF ALL TIME
+---------------------------------
+('Candidate is jerk, alleges rival', 338647L)
+('Bears love berries, alleges bear', 253801L)
+('Bad things gone, say good people', 170098L)
+("Goats eat Google's lawn", 84906L)
+('Trouble for troubled troublemakers', 84810L)
+('Balloon goons doomed', 84557L)
+('There are a lot of bears', 84504L)
+('Media obsessed with bears', 84383L)
+
+POPULAR AUTHORS OF ALL TIME
+---------------------------------
+('Ursula La Multa', 507594L)
+('Rudolf von Treppenwitz', 423457L)
+('Anonymous Contributor', 170098L)
+('Markoff Chaney', 84557L)
+
+REPORTED ERRORS > 1%
+---------------------------------
+(datetime.date(2016, 7, 17), 2.0)
