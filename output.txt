@@ -1,21 +1,19 @@
-POPULAR ARTICLES OF ALL TIME
+TOP 3 ARTICLES BY VIEWS
 ---------------------------------
-('Candidate is jerk, alleges rival', 338647L)
-('Bears love berries, alleges bear', 253801L)
-('Bad things gone, say good people', 170098L)
-("Goats eat Google's lawn", 84906L)
-('Trouble for troubled troublemakers', 84810L)
-('Balloon goons doomed', 84557L)
-('There are a lot of bears', 84504L)
-('Media obsessed with bears', 84383L)
+"Candidate is jerk, alleges rival" -- 338647 views
+"Bears love berries, alleges bear" -- 253801 views
+"Bad things gone, say good people" -- 170098 views
 
-POPULAR AUTHORS OF ALL TIME
----------------------------------
-('Ursula La Multa', 507594L)
-('Rudolf von Treppenwitz', 423457L)
-('Anonymous Contributor', 170098L)
-('Markoff Chaney', 84557L)
 
-REPORTED ERRORS > 1%
+AUTHORS RANKED BY ARTICLE VIEWS
 ---------------------------------
-(datetime.date(2016, 7, 17), 2.0)
+"Ursula La Multa" -- 507594 views
+"Rudolf von Treppenwitz" -- 423457 views
+"Anonymous Contributor" -- 170098 views
+"Markoff Chaney" -- 84557 views
+
+
+DATE(S) WITH REPORTED ERRORS > 1% 
+---------------------------------
+2016-07-17 -- 2.26% errors
+
